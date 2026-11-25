@@ -1,0 +1,12 @@
+# Binaries and test artifacts
+*.exe
+*.test
+*.out
+coverage.*
+/testdata/fuzz/
+/internal/sfv/testdata/fuzz/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
